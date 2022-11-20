@@ -17,9 +17,11 @@
 
 # Методы API: (http://zasenko.000webhostapp.com/ApiDocumentation.pdf)
 
+# Техническое задание: (https://zasenko.000webhostapp.com/tz.pdf)
+
 # Команда разработки:
 Дмитрий(Zasenko) – Автор идеи, руководитель проекта, базы данных, Api
 
-Эдуард – Работа с картой
+Эдуард – AboutAppView
 
 Андрей(dronchekk) - UI
